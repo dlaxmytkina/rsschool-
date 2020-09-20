@@ -1,0 +1,41 @@
+.wrapper {
+    position: relative;
+    margin: 50px auto;
+    width:800px;
+    height: 650px;
+    border-style: groove;
+    box-shadow: 10px 5px 4px 2px gray;
+    
+    }
+
+  
+  .left_block{
+    background-color: gray;
+    float:left;
+    width:200px;
+    height: 650px;
+    
+  }
+
+  .right_block {
+    background-color: #D0D3D4;
+    float:right;
+    width:600px;
+    height: 650px;
+     
+    }
+
+    .structure{
+      font-size: 20px;
+      text-align: left ;
+      padding-left: 20px;
+      font-style: italic;
+      font-weight: bold;
+    
+    }
+ 
+  .text{
+    padding: 0 20px 0 20px;
+    line-height: 1.7;
+    
+  }
